@@ -1,0 +1,71 @@
+.container {
+    margin-bottom: 70px;
+}
+
+.container__title {
+    text-align: center;
+    font-size:4rem;
+    margin-top: 10rem;
+    font-weight: 700;
+    margin-bottom: 6rem;
+}
+
+.container__description {
+    font-size:1.6rem;
+    color: #000;
+    margin: 16px auto;
+    width: 800px;
+    line-height:3.6rem;
+    text-align: justify;
+}
+
+/* animal list */
+.animal {
+    margin-top: 12rem;
+    width: 900px;
+    margin: 0 auto;
+}
+
+.animal__heading {
+    font-size: 4rem;
+    text-align: center;
+    margin: 4rem 0;
+}
+
+/* .animal__list {
+} */
+
+.animal__item {
+    display: flex;
+    justify-content:center;
+    margin: 1.6rem 0;
+    transition: transform .2s;
+    
+}
+
+.animal__card {
+    display:block;
+}
+.animal__item:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+.animal__image {
+    display: block;
+    width: 250px;
+    height: 350px;
+    filter: grayscale(10%);
+    object-fit: cover;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.animal__card-name{
+    font-size: 1.8rem;
+    text-align: center;
+    display: block;
+    padding: 16px 0;
+    color: #b16150;
+    text-transform: uppercase;
+}
