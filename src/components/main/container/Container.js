@@ -7,7 +7,7 @@ function Container() {
         <div className="grid wide container">
             <div className="grid">
                 <h1 className="container__title">
-                ĐỘNG VẬT HOANG DÃ
+                    ĐỘNG VẬT HOANG DÃ
                 </h1>
                 <p className="container__description">
                     Việt Nam là một trong những quốc gia có đa dạng sinh học cao về các 
@@ -33,7 +33,7 @@ function Container() {
                 <ul className="animal__list row">
                 {AnimalList.map(animal => {
                     return(
-                    <Animal key = {animal.id}  animal={animal} />
+                            <Animal key = {animal.id}  animal={animal} />
                 )})} 
                 </ul>
             </div>

@@ -4,9 +4,9 @@ function Footer() {
     return (
         <footer>
                 <div className="contact">
-                    <h2 className="contact__gmail">SIGN UP FOR MONA EMAIL</h2>
-                    <p className="contact__text">Be the first to know about the latest products, exclusives and offers from Mona</p>
-                    <a href="" className="contact__signup">sign up</a>
+                    <h2 className="contact__gmail">ĐĂNG KÝ NHẬN EMAIL TỪ WCS</h2>
+                    <p className="contact__text">Hãy là người đầu tiên nhận được thông tin mới nhất của chúng tôi.</p>
+                    <a href="" className="contact__signup">Đăng ký</a>
                 </div>
                 <div className="info">
                     <div className="gridhd info__content grid wide">
@@ -25,13 +25,11 @@ function Footer() {
                                     <li>Order Status</li>
                                     <li>Delivery</li>
                                     <li>Returns</li>
-                                    <li>Payment Options</li>
-                                    <li>Contact Us</li>
                                 </ul>
                             </li>
                             <li className="info__item">
                                 <ul>
-                                    <li className="bold text-white">ABOUT MONA</li>
+                                    <li className="bold text-white">ABOUT WCS</li>
                                     <li>News</li>
                                     <li>Careers</li>
                                     <li>Investors</li>

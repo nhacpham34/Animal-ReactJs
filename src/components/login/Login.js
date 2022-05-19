@@ -4,10 +4,10 @@ import React, {useState} from 'react';
 import { useNavigate } from "react-router-dom";
 function Login() {
     let history = useNavigate();
-    const [userName, setUserName] = useState("nhac@gmail.com");
-    const [password, setPassword] = useState("Nhac1234");
+    const [userName, setUserName] = useState("dhggy@gmail.com");
+    const [password, setPassword] = useState("sdjfks345");
     let login = () => {
-        if(userName !='nhac@gmail.com' && password !='Nhac1234' && ValidateEmail(userName) && ValidatePassword(password)) {
+        if(userName !='dhggy@gmail.com' && password !='sdjfks345' && ValidateEmail(userName) && ValidatePassword(password)) {
             localStorage.setItem("accessToken", true);
             localStorage.setItem("nameToken", userName);
             history("/admin", {replace: true})

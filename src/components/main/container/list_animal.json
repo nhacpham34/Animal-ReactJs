@@ -2,36 +2,42 @@
     {
     "id": "1",
     "imgLink": "/image/voi.png",
+    "imgLink2" : "https://programs.wcs.org/Portals/119/Elephant%20cover.png?ver=aTSUGP6faN5eJuevZiHosw%3d%3d",
     "animalName": "Voi",
     "description": "Trên thế giới hiện có 3 loài voi: voi đồng cỏ châu Phi (Loxodonta africana), voi rừng châu Phi (Loxodonta cyclotis) và voi châu Á (Elephas maximus). Voi châu Phi được tìm thấy trên khắp lục địa châu Phi, từ vùng hoang mạc sa mạc Sahara đến những khu rừng phía Trung và Tây Phi. Voi châu Á phân bố trải dài từ bờ biển Iran của Tây Á đến phía đông khu vực sông Trường Giang của Trung Quốc. Tuy nhiên, hiện nay chúng chỉ còn các quần thể rải rác ở các nước Nam Á và Đông Nam Á."
     },
     {
     "id": "2",
     "imgLink": "/image/linhtruong.jpg",
+    "imgLink2" : "https://programs.wcs.org/Portals/119/Primate%20cover.png?ver=B-cmmpxOSt5-NLJbCBGf5w%3d%3d",
     "animalName": "Linh Trưởng",
     "description": "Trên thế giới hiện có 3 loài voi: voi đồng cỏ châu Phi (Loxodonta africana), voi rừng châu Phi (Loxodonta cyclotis) và voi châu Á (Elephas maximus). Voi châu Phi được tìm thấy trên khắp lục địa châu Phi, từ vùng hoang mạc sa mạc Sahara đến những khu rừng phía Trung và Tây Phi. Voi châu Á phân bố trải dài từ bờ biển Iran của Tây Á đến phía đông khu vực sông Trường Giang của Trung Quốc. Tuy nhiên, hiện nay chúng chỉ còn các quần thể rải rác ở các nước Nam Á và Đông Nam Á."
     },
     {
     "id": "3",
     "imgLink": "/image/rua.png",
-    "animalName": "Rùa",
+    "imgLink2" : "https://programs.wcs.org/Portals/119/Turtle%20cover.png?ver=FBIAYLoWQgcAmQt2ciW-zg%3d%3d",
+    "animalName": "RÙA CẠN VÀ RÙA NƯỚC NGỌT",
     "description": "Trên thế giới hiện có 3 loài voi: voi đồng cỏ châu Phi (Loxodonta africana), voi rừng châu Phi (Loxodonta cyclotis) và voi châu Á (Elephas maximus). Voi châu Phi được tìm thấy trên khắp lục địa châu Phi, từ vùng hoang mạc sa mạc Sahara đến những khu rừng phía Trung và Tây Phi. Voi châu Á phân bố trải dài từ bờ biển Iran của Tây Á đến phía đông khu vực sông Trường Giang của Trung Quốc. Tuy nhiên, hiện nay chúng chỉ còn các quần thể rải rác ở các nước Nam Á và Đông Nam Á."
     },
     {
     "id": "4",
     "imgLink": "/image/tegiac.png",
+    "imgLink2" : "https://programs.wcs.org/Portals/119/Rhino%20page%20-%20cover.png?ver=sATO4fCB5WzsWQG-bR9bug%3d%3d",
     "animalName": "Tê Giác",
     "description": "Trên thế giới hiện có 3 loài voi: voi đồng cỏ châu Phi (Loxodonta africana), voi rừng châu Phi (Loxodonta cyclotis) và voi châu Á (Elephas maximus). Voi châu Phi được tìm thấy trên khắp lục địa châu Phi, từ vùng hoang mạc sa mạc Sahara đến những khu rừng phía Trung và Tây Phi. Voi châu Á phân bố trải dài từ bờ biển Iran của Tây Á đến phía đông khu vực sông Trường Giang của Trung Quốc. Tuy nhiên, hiện nay chúng chỉ còn các quần thể rải rác ở các nước Nam Á và Đông Nam Á."
     },
     {
     "id": "5",
     "imgLink": "/image/tiger.png",
+    "imgLink2" : "https://programs.wcs.org/Portals/119/Tiger%20page%20cover.png?ver=T-ACXaK_1k68b7ZwJzH_fw%3d%3d",
     "animalName": "Hổ",
     "description": "Trên thế giới hiện có 3 loài voi: voi đồng cỏ châu Phi (Loxodonta africana), voi rừng châu Phi (Loxodonta cyclotis) và voi châu Á (Elephas maximus). Voi châu Phi được tìm thấy trên khắp lục địa châu Phi, từ vùng hoang mạc sa mạc Sahara đến những khu rừng phía Trung và Tây Phi. Voi châu Á phân bố trải dài từ bờ biển Iran của Tây Á đến phía đông khu vực sông Trường Giang của Trung Quốc. Tuy nhiên, hiện nay chúng chỉ còn các quần thể rải rác ở các nước Nam Á và Đông Nam Á."
     },
     {
     "id": "6",
     "imgLink": "/image/tete.png",
+    "imgLink2" : "https://programs.wcs.org/Portals/119/Pangolin%20cover.png?ver=RRjrKpeVjZZY_rs6pv3dbw%3d%3d",
     "animalName": "Tê Tê",
     "description": "Trên thế giới hiện có 3 loài voi: voi đồng cỏ châu Phi (Loxodonta africana), voi rừng châu Phi (Loxodonta cyclotis) và voi châu Á (Elephas maximus). Voi châu Phi được tìm thấy trên khắp lục địa châu Phi, từ vùng hoang mạc sa mạc Sahara đến những khu rừng phía Trung và Tây Phi. Voi châu Á phân bố trải dài từ bờ biển Iran của Tây Á đến phía đông khu vực sông Trường Giang của Trung Quốc. Tuy nhiên, hiện nay chúng chỉ còn các quần thể rải rác ở các nước Nam Á và Đông Nam Á."
     }

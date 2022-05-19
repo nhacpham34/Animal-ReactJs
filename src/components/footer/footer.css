@@ -5,6 +5,7 @@
     background: url(http://mauweb.monamedia.net/bitis/wp-content/uploads/2018/03/EVERGREEN_HP_DESK_GBL_EMAIL_SIGNUP.jpg)
      no-repeat top / cover;
     text-align: center;
+    margin-top: 6rem;
 }
 
 .contact__gmail{
@@ -84,4 +85,34 @@
     font-style: italic;
     font-weight: bold;
     text-shadow: 1px 1px;
+}
+
+/* >= Tablet */
+@media (min-width: 500px) and (max-width: 739px){
+    .info__content {
+        flex-direction: column;
+    }
+    .social__list {
+        margin-bottom: 24px;
+    }
+}
+
+/* >= mobile */
+@media (max-width: 499px){
+    .info__content {
+        flex-direction: column;
+    }
+
+    .info__list {
+        flex-direction: column;
+        justify-content:center;
+        align-items: center;
+    }
+    .info__item {
+        margin: 0;
+        text-align:center;
+    }
+    .social__list {
+        margin-bottom: 24px;
+    }
 }
