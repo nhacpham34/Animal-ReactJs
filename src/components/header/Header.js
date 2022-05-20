@@ -62,7 +62,7 @@ function Header()
                             <li className="navbar__item-sectors">
                                 <a className="navbar__item-link" href="#">TIN TỨC</a>
                             </li>
-                            <li className="navbar__item-sectors"><a className="navbar__item-link" href="#shop-boys">TÀI LIỆU</a></li>
+                            <li className="navbar__item-sectors"><a className="navbar__item-link" href="#">TÀI LIỆU</a></li>
                         </ul>
                     </li>
                     <li className="navbar__item">
