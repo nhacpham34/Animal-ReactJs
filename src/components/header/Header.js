@@ -54,13 +54,13 @@ function Header()
                         
                         <ul className="navbar__item-list">
                             <li className="navbar__item-sectors">
-                                <a className="navbar__item-link" href="/">VỀ CHÚNG TÔI</a>
+                                <a className="navbar__item-link" href="#">VỀ CHÚNG TÔI</a>
                             </li>
                             <li className="navbar__item-sectors">
-                                <a className="navbar__item-link" href="#shop-boys">ĐỘNG VẬT HOANG DÃ</a>
+                                <a className="navbar__item-link" href="#">ĐỘNG VẬT HOANG DÃ</a>
                             </li>
                             <li className="navbar__item-sectors">
-                                <a className="navbar__item-link" href="#shop-boys">TIN TỨC</a>
+                                <a className="navbar__item-link" href="#">TIN TỨC</a>
                             </li>
                             <li className="navbar__item-sectors"><a className="navbar__item-link" href="#shop-boys">TÀI LIỆU</a></li>
                         </ul>
